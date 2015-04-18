@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "timezone", "timezone.vbproj", "{5DC62C01-4FBE-4689-95A2-F8F68EAB5936}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "quiz", "..\quiz\quiz\quiz.vbproj", "{89A9209C-DE3F-4379-855D-2BB864952CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC62C01-4FBE-4689-95A2-F8F68EAB5936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC62C01-4FBE-4689-95A2-F8F68EAB5936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC62C01-4FBE-4689-95A2-F8F68EAB5936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC62C01-4FBE-4689-95A2-F8F68EAB5936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A9209C-DE3F-4379-855D-2BB864952CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A9209C-DE3F-4379-855D-2BB864952CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A9209C-DE3F-4379-855D-2BB864952CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A9209C-DE3F-4379-855D-2BB864952CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

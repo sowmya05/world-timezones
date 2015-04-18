@@ -1,0 +1,84 @@
+F:\visual studio\timezone\timezone\bin\Debug\timezone.exe.config
+F:\visual studio\timezone\timezone\bin\Debug\timezone.exe
+F:\visual studio\timezone\timezone\bin\Debug\timezone.pdb
+F:\visual studio\timezone\timezone\bin\Debug\timezone.xml
+F:\visual studio\timezone\timezone\obj\Debug\timezone.Form1.resources
+F:\visual studio\timezone\timezone\obj\Debug\timezone.Resources.resources
+F:\visual studio\timezone\timezone\obj\Debug\timezone.vbproj.GenerateResource.Cache
+F:\visual studio\timezone\timezone\obj\Debug\timezone.exe
+F:\visual studio\timezone\timezone\obj\Debug\timezone.xml
+F:\visual studio\timezone\timezone\obj\Debug\timezone.pdb
+F:\visual studio\timezone\timezone\obj\Debug\timezone.Form2.resources
+F:\visual studio\timezone\timezone\obj\Debug\timezone.Form3.resources
+C:\Users\Sowmya K\Desktop\timezone\bin\Debug\timezone.exe.config
+C:\Users\Sowmya K\Desktop\timezone\obj\Debug\timezone.exe
+C:\Users\Sowmya K\Desktop\timezone\obj\Debug\timezone.xml
+C:\Users\Sowmya K\Desktop\timezone\obj\Debug\timezone.pdb
+C:\Users\Sowmya K\Desktop\timezone\bin\Debug\timezone.exe.manifest
+C:\Users\Sowmya K\Desktop\timezone\bin\Debug\timezone.application
+C:\Users\Sowmya K\Desktop\timezone\bin\Debug\timezone.exe
+C:\Users\Sowmya K\Desktop\timezone\bin\Debug\timezone.pdb
+C:\Users\Sowmya K\Desktop\timezone\bin\Debug\timezone.xml
+C:\Users\Sowmya K\Desktop\timezone\obj\Debug\timezone.Form1.resources
+C:\Users\Sowmya K\Desktop\timezone\obj\Debug\timezone.Form2.resources
+C:\Users\Sowmya K\Desktop\timezone\obj\Debug\timezone.Form3.resources
+C:\Users\Sowmya K\Desktop\timezone\obj\Debug\timezone.Resources.resources
+C:\Users\Sowmya K\Desktop\timezone\obj\Debug\timezone.vbproj.GenerateResource.Cache
+C:\Users\Sowmya K\Desktop\timezone\obj\Debug\timezone.exe.manifest
+C:\Users\Sowmya K\Desktop\timezone\obj\Debug\timezone.application
+C:\Users\Sowmya\Desktop\timezone\bin\Debug\timezone.exe.config
+C:\Users\Sowmya\Desktop\timezone\obj\Debug\timezone.exe
+C:\Users\Sowmya\Desktop\timezone\obj\Debug\timezone.xml
+C:\Users\Sowmya\Desktop\timezone\obj\Debug\timezone.pdb
+C:\Users\Sowmya\Desktop\timezone\bin\Debug\timezone.exe.manifest
+C:\Users\Sowmya\Desktop\timezone\bin\Debug\timezone.application
+C:\Users\Sowmya\Desktop\timezone\bin\Debug\timezone.exe
+C:\Users\Sowmya\Desktop\timezone\bin\Debug\timezone.pdb
+C:\Users\Sowmya\Desktop\timezone\bin\Debug\timezone.xml
+C:\Users\Sowmya\Desktop\timezone\obj\Debug\timezone.Form1.resources
+C:\Users\Sowmya\Desktop\timezone\obj\Debug\timezone.Form2.resources
+C:\Users\Sowmya\Desktop\timezone\obj\Debug\timezone.Form3.resources
+C:\Users\Sowmya\Desktop\timezone\obj\Debug\timezone.Resources.resources
+C:\Users\Sowmya\Desktop\timezone\obj\Debug\timezone.vbproj.GenerateResource.Cache
+C:\Users\Sowmya\Desktop\timezone\obj\Debug\timezone.exe.manifest
+C:\Users\Sowmya\Desktop\timezone\obj\Debug\timezone.application
+F:\visual studio\timezone\bin\Debug\timezone.exe.config
+F:\visual studio\timezone\obj\Debug\timezone.exe
+F:\visual studio\timezone\obj\Debug\timezone.xml
+F:\visual studio\timezone\obj\Debug\timezone.pdb
+F:\visual studio\timezone\bin\Debug\timezone.exe.manifest
+F:\visual studio\timezone\bin\Debug\timezone.application
+F:\visual studio\timezone\bin\Debug\timezone.exe
+F:\visual studio\timezone\bin\Debug\timezone.pdb
+F:\visual studio\timezone\bin\Debug\timezone.xml
+F:\visual studio\timezone\obj\Debug\timezone.Form1.resources
+F:\visual studio\timezone\obj\Debug\timezone.Form2.resources
+F:\visual studio\timezone\obj\Debug\timezone.Form3.resources
+F:\visual studio\timezone\obj\Debug\timezone.Resources.resources
+F:\visual studio\timezone\obj\Debug\timezone.vbproj.GenerateResource.Cache
+F:\visual studio\timezone\obj\Debug\timezone.exe.manifest
+F:\visual studio\timezone\obj\Debug\timezone.application
+F:\visual studio\timezone\obj\Debug\timezone.vbprojResolveAssemblyReference.cache
+F:\visual studio\timezone\bin\Debug\quiz.exe
+F:\visual studio\timezone\bin\Debug\quiz.pdb
+F:\visual studio\timezone\bin\Debug\quiz.xml
+C:\Users\Sowmya K\Desktop\visual studio\timezone\bin\Debug\timezone.exe.config
+C:\Users\Sowmya K\Desktop\visual studio\timezone\obj\Debug\timezone.exe
+C:\Users\Sowmya K\Desktop\visual studio\timezone\obj\Debug\timezone.xml
+C:\Users\Sowmya K\Desktop\visual studio\timezone\obj\Debug\timezone.pdb
+C:\Users\Sowmya K\Desktop\visual studio\timezone\bin\Debug\timezone.exe.manifest
+C:\Users\Sowmya K\Desktop\visual studio\timezone\bin\Debug\timezone.application
+C:\Users\Sowmya K\Desktop\visual studio\timezone\bin\Debug\timezone.exe
+C:\Users\Sowmya K\Desktop\visual studio\timezone\bin\Debug\timezone.pdb
+C:\Users\Sowmya K\Desktop\visual studio\timezone\bin\Debug\timezone.xml
+C:\Users\Sowmya K\Desktop\visual studio\timezone\bin\Debug\quiz.exe
+C:\Users\Sowmya K\Desktop\visual studio\timezone\bin\Debug\quiz.pdb
+C:\Users\Sowmya K\Desktop\visual studio\timezone\bin\Debug\quiz.xml
+C:\Users\Sowmya K\Desktop\visual studio\timezone\obj\Debug\timezone.vbprojResolveAssemblyReference.cache
+C:\Users\Sowmya K\Desktop\visual studio\timezone\obj\Debug\timezone.Form1.resources
+C:\Users\Sowmya K\Desktop\visual studio\timezone\obj\Debug\timezone.Form2.resources
+C:\Users\Sowmya K\Desktop\visual studio\timezone\obj\Debug\timezone.Form3.resources
+C:\Users\Sowmya K\Desktop\visual studio\timezone\obj\Debug\timezone.Resources.resources
+C:\Users\Sowmya K\Desktop\visual studio\timezone\obj\Debug\timezone.vbproj.GenerateResource.Cache
+C:\Users\Sowmya K\Desktop\visual studio\timezone\obj\Debug\timezone.exe.manifest
+C:\Users\Sowmya K\Desktop\visual studio\timezone\obj\Debug\timezone.application
